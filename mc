@@ -5,7 +5,7 @@ import net.minecraft.item.Item;
 
 public class ItemSimple extends Item
 {
-  static private final int MAXIMUM_NUMBER_OF_UNICORN = 15; // maximum stack size
+  static private final int MAXIMUM_NUMBER_OF_UNICORNS = 15; // maximum stack size
   public ItemSimple()
   {
     super(new Item.Properties().maxStackSize(MAXIMUM_NUMBER_OF_UNICORNS).group(ItemGroup.MISC) // the item will appear on the Miscellaneous tab in creative
