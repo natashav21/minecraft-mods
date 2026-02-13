@@ -1,3 +1,3 @@
-public class NewSound (){
+public class NewExtendsSound (){
   Public static playSound(){
 playsound <sound> <source> <targets> [<pos>] [<volume>] [<pitch>] [<minVolume>]
